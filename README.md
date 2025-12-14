@@ -1,5 +1,5 @@
 # IC_PY_03
-# Weather App (Python)
+# Weather App 
 
 A command-line Python application that fetches real-time weather data for any city using the OpenWeatherMap API.
 
